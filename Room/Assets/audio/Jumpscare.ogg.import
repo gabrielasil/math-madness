@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Jumpscare.ogg-17ce3a024dcce28179bd25d95e2611cb.oggstr"
+
+[deps]
+
+source_file="res://Room/Assets/audio/Jumpscare.ogg"
+dest_files=[ "res://.import/Jumpscare.ogg-17ce3a024dcce28179bd25d95e2611cb.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

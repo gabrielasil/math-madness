@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/nighttitle.ogg-4066e4a704fe73497acef52829a7c8d5.oggstr"
+
+[deps]
+
+source_file="res://Room/Assets/audio/nighttitle.ogg"
+dest_files=[ "res://.import/nighttitle.ogg-4066e4a704fe73497acef52829a7c8d5.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,59 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+_global_script_classes=[ {
+"base": "Spatial",
+"class": "Animatronic",
+"language": "GDScript",
+"path": "res://Room/Scrpts/Animatronics/Animatronic.gd"
+}, {
+"base": "VBoxContainer",
+"class": "FrameQuestion",
+"language": "GDScript",
+"path": "res://Room/Scrpts/FrameQuestion.gd"
+}, {
+"base": "Resource",
+"class": "Question",
+"language": "GDScript",
+"path": "res://Room/Scrpts/QuestionObject.gd"
+} ]
+_global_script_class_icons={
+"Animatronic": "",
+"FrameQuestion": "",
+"Question": ""
+}
+
+[application]
+
+config/name="MathMadnessRefactored"
+run/main_scene="res://Menu/MainMenu.tscn"
+config/icon="res://icon.png"
+
+[display]
+
+window/size/width=640
+window/size/height=480
+window/size/fullscreen=true
+window/stretch/mode="viewport"
+
+[importer_defaults]
+
+ogg_vorbis={
+"loop": false,
+"loop_offset": 0
+}
+
+[physics]
+
+common/enable_pause_aware_picking=true
+
+[rendering]
+
+environment/default_environment="res://default_env.tres"

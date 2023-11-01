@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/prejump.ogg-4e389de3eedd6562c74351f8668c4e6f.oggstr"
+
+[deps]
+
+source_file="res://Room/Assets/audio/prejump.ogg"
+dest_files=[ "res://.import/prejump.ogg-4e389de3eedd6562c74351f8668c4e6f.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

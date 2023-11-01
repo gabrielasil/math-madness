@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/tablet off.ogg-3f0d44f73902aa1de371864c553b42fb.oggstr"
+
+[deps]
+
+source_file="res://Room/Assets/audio/tablet off.ogg"
+dest_files=[ "res://.import/tablet off.ogg-3f0d44f73902aa1de371864c553b42fb.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
